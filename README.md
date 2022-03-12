@@ -1,2 +1,2 @@
 # BuscadorCep
-Busca os ceps do correios e grava em arquivo excel
+Busca os ceps dos correios e grava em arquivo excel
